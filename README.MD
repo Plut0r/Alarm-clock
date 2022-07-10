@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git repo url]()
+- Solution URL: [Git repo url](https://github.com/Plut0r/Alarm-clock)
 - Live Site URL: [Git live url]()
 
 
